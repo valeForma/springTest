@@ -11,11 +11,7 @@ public class SpringtestApplication {
 	 System.out.println("hello spring");
 	 System.out.println("hello spring");
 	 System.out.println("hello spring");
-	 System.out.println("hello spring222222");
-	 System.out.println("hello spring222222");
-	 System.out.println("hello spring222222");
-	 System.out.println("hello spring222222");
-	 System.out.println("hello spring222222");
+	
 		SpringApplication.run(SpringtestApplication.class, args);
 	}
 
