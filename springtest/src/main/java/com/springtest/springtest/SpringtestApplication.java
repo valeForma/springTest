@@ -8,12 +8,7 @@ public class SpringtestApplication {
 
 	public static void main(String[] args) {
 	 System.out.println("hello spring");
-	 System.out.println("hello spring");
-	 System.out.println("hello spring");
-	 System.out.println("hello spring");
-	 System.out.println("hello springmnmmnmmnmmnnn");
-
-	 System.out.println("hello springmnmmnmmnmmnnn");
+	 
 
 	 
 
